@@ -1,1 +1,1 @@
-# - Create a CRUD for task application using redux toolkit
+# Create a CRUD for task application using redux toolkit
